@@ -1,0 +1,9 @@
+POST http://localhost:3000/reports
+Content-Type: application/json
+
+{
+  "firstname": "John",
+  "lastname": "Doe"
+}
+
+###
